@@ -1,8 +1,5 @@
-import product.Product;
 import soda_machine.IMachine;
 import soda_machine.SodaMachine;
-
-import java.util.List;
 
 class SodaMachineApplication{
     public static void main(String[] args) {
